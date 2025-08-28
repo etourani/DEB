@@ -1,0 +1,18 @@
+{
+  "dump": "./tmid_sorted.txt",
+  "ops": "./combinedOPs_tmid_labeled.csv",
+  "out": "./soap_out",
+  "rcut": 6.0,
+  "nmax": 8,
+  "lmax": 8,
+  "sigma": 0.1,
+  "periodic": true,
+  "pca": 25,
+  "umap_n": 10,
+  "umap_min_dist": 0.0,
+  "umap_metric": "manhattan",
+  "hdb_min_cluster": 100,
+  "hdb_min_samples": 30,
+  "random_state": 11,
+  "write_xyz": true
+}

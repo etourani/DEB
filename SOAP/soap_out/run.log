@@ -1,0 +1,26 @@
+2025-08-22 06:55:41,473 [INFO] Starting SOAP pipeline
+2025-08-22 06:55:41,490 [INFO] Loaded atoms: N=9000, cell=Cell([62.62273077957866, 62.62273077957866, 62.62273077957866])
+2025-08-22 06:55:41,490 [INFO] Species for SOAP: ['H', 'He']
+2025-08-22 06:55:41,491 [INFO] Computing SOAP features...
+2025-08-22 06:55:41,856 [INFO] features.shape = (9000, 1224)
+2025-08-22 06:55:42,692 [INFO] PCA -> n_components=25
+2025-08-22 06:55:43,511 [INFO] Total variance explained by 25 PCs: 0.9931
+2025-08-22 06:55:43,511 [INFO] Running UMAP on PCA output...
+2025-08-22 06:55:54,943 [INFO] Merging with OPs from: ./combinedOPs_tmid_labeled.csv
+2025-08-22 06:55:55,006 [INFO] Clustering UMAP with HDBSCAN...
+2025-08-22 06:55:55,313 [INFO] Label counts: {4: 5471, 3: 3174, 0: 120, 1: 119, 2: 116}
+2025-08-22 06:55:55,313 [INFO] Writing XYZ with cluster labels (array name: 'c')...
+2025-08-22 06:55:55,342 [INFO] Done.
+2025-08-22 06:56:32,376 [INFO] Starting SOAP pipeline
+2025-08-22 06:56:32,393 [INFO] Loaded atoms: N=9000, cell=Cell([62.62273077957866, 62.62273077957866, 62.62273077957866])
+2025-08-22 06:56:32,394 [INFO] Species for SOAP: ['H', 'He']
+2025-08-22 06:56:32,395 [INFO] Computing SOAP features...
+2025-08-22 06:56:32,760 [INFO] features.shape = (9000, 1224)
+2025-08-22 06:56:33,619 [INFO] PCA -> n_components=25
+2025-08-22 06:56:34,162 [INFO] Total variance explained by 25 PCs: 0.9931
+2025-08-22 06:56:34,162 [INFO] Running UMAP on PCA output...
+2025-08-22 06:56:45,495 [INFO] Merging with OPs from: ./combinedOPs_tmid_labeled.csv
+2025-08-22 06:56:45,548 [INFO] Clustering UMAP with HDBSCAN...
+2025-08-22 06:56:45,862 [INFO] Label counts: {4: 3587, 3: 3181, 5: 1869, 1: 120, 0: 120, 2: 117, -1: 6}
+2025-08-22 06:56:45,862 [INFO] Writing XYZ with cluster labels (array name: 'c')...
+2025-08-22 06:56:45,880 [INFO] Done.

@@ -1,0 +1,25 @@
+{
+  "input": "./tmid_Si_Savg.csv",
+  "out": "deb_out",
+  "step": 1,
+  "shells": [
+    0.3816,
+    0.7633,
+    1.145,
+    1.5267,
+    1.908,
+    2.29,
+    2.672
+  ],
+  "Sstar": -5.8,
+  "sigma_s": 1.0,
+  "standardize": true,
+  "umap_n": 10,
+  "umap_min_dist": 0.0,
+  "umap_metric": "euclidean",
+  "random_state": 11,
+  "cluster": false,
+  "hdb_min_cluster": 50,
+  "hdb_min_samples": 10,
+  "color_by": "S_avg"
+}
