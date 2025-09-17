@@ -9,8 +9,11 @@ Repository Structure
 ----------------------------------------------------------------------
 
 SM_DEB_SOAP/
+
   classification/    Supervised ML scripts, datasets, and results
+
   DEB/               Directional Entropy Band (DEB) descriptor calculation
+  
   SOAP/              SOAP descriptor calculation and related outputs
 
 ----------------------------------------------------------------------
