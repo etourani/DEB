@@ -103,8 +103,7 @@ Tourani, E. et al. (2025).
 
 If you are using the SOAP descriptors, please also cite:
 
-https://doi.org/10.1016/j.cpc.2019.106949
-DScribe: Library of descriptors for machine learning in materials science (2020).
+DScribe: Library of descriptors for machine learning in materials science, 0.1016/j.cpc.2019.106949, (2020).
 
 ----------------------------------------------------------------------
 7. License
