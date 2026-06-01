@@ -102,7 +102,7 @@ Run supervised classification:
 If you use this repository, please cite:
 
 Tourani, E. et al. (2025).
-"Directional Entropy Bands for Surface Characterization of Polymer Crystallization."
+"Directional Entropy Bands for Surface Characterization of Polymer Crystallization.",
  Polymers 2025, 17(17), 2399. https://doi.org/10.3390/polym17172399
 
 If you are using the SOAP descriptors, please also cite:
